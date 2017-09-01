@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
 ![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
-![](https://img.shields.io/badge/download-791K-brightgreen.svg)
+![](https://img.shields.io/badge/download-2.4MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 一款 App 在 App Store 上的评分不仅能代表用户对产品的满意程度，而且对 ASO 有着很大的影响。
