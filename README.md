@@ -10,7 +10,7 @@
 
 | 名称 |1.简介页 |2.三方弹窗页 |3.系统弹窗页 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/61199712.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/7733634.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/36003767.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/76956904.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/73545415.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/37550898.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 使用 Appirater 适配 iOS 4~10.3 | 使用 StoreKit 适配 iOS 10.3 以上 |
 
 
