@@ -7,12 +7,7 @@
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 一款 App 在 App Store 上的评分不仅能代表用户对产品的满意程度，而且对 ASO 有着很大的影响。
-
-| 名称 |1.简介页 |2.三方弹窗页 |3.系统弹窗页 |
-| ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/76956904.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/73545415.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-9-1/37550898.jpg) |
-| 描述 | 通过 storyboard 搭建基本框架 | 使用 Appirater 适配 iOS 4~10.3 | 使用 StoreKit 适配 iOS 10.3 以上 |
-
+![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/19-1-9/83326828.jpg)
 
 ## Advantage 框架的优势
 * 1.文件少，代码简洁，版本覆盖全面
