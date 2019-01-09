@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 一款 App 在 App Store 上的评分不仅能代表用户对产品的满意程度，而且对 ASO 有着很大的影响。
-![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/19-1-9/83326828.jpg)
+![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/19-1-9/15961467.jpg)
 
 ## Advantage 框架的优势
 * 1.文件少，代码简洁，版本覆盖全面
